@@ -1,6 +1,6 @@
 # Big Five personality traits
 
-The project implements a website with a quiz: 120 questions of [The Big Five Test](https://en.wikipedia.org/wiki/Big_Five_personality_traits) and summary.
+The project implements a website with a quiz: 120 questions of [The Big Five Test](https://en.wikipedia.org/wiki/Big_Five_personality_traits) and a summary.
 
 ## Live demo
 The website is hosted on the Github pages at [https://bigfive.top/](https://bigfive.top/)
